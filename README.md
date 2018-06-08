@@ -1,4 +1,23 @@
-# AngularCliApp
+# To clone and run this project run the below commands
+
+```
+git clone "https://github.com/duncanhunter/workshop-enterprise-angular-applications-with-ngrx-and-nx-cli-only.git"
+```
+
+```
+cd workshop-enterprise-angular-applications-with-ngrx-and-nx-cli-only
+```
+
+```
+npm install
+```
+
+```
+ng serve
+```
+
+
+## AngularCliApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
